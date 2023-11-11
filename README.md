@@ -11,21 +11,27 @@ creating innovative and efficient web solutions. My journey in the realm of web 
   <h2>🔧 Technologies & Skills</h2>
 
   <ul>
+      <li><strong>Languages:</strong>
+      <div>
+<a href="#" target="_blank">
+  <img src="https://skillicons.dev/icons?i=html,js,css,cpp," alt="My Skills">
+</a>       </div>
+    </li>
     <li><strong>Frontend Development:</strong>
       <div>
-<a href="https://skillicons.dev" target="_blank">
-  <img src="https://skillicons.dev/icons?i=angular,react,vue" alt="My Skills">
+<a href="#" target="_blank">
+  <img src="https://skillicons.dev/icons?i=angular,bootstrap,tailwind,jquery,react,vue" alt="My Skills">
 </a>       </div>
     </li>
     <li><strong>Backend Development:</strong>
         <div>
-<a href="https://skillicons.dev" target="_blank">
+<a href="#" target="_blank">
   <img src="https://skillicons.dev/icons?i=nodejs,django,rails" alt="My Skills">
 </a>       </div>
     </li>
     <li><strong>Databases:</strong>
        <div>
-<a href="https://skillicons.dev" target="_blank">
+<a href="#" target="_blank">
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" alt="My Skills">
 </a>     </div>
     </li>
@@ -59,12 +65,20 @@ creating innovative and efficient web solutions. My journey in the realm of web 
 
   <h2>📚 Blog</h2>
 
-  <p>I share my insights and experiences in the world of web development on my <a href="#">blog</a>. From tutorials to
+  <p>I share my insights and experiences in the world of web development on my <a href="heyadarsh.lovestoblog.com/adarsh-pratap-singh/">blog</a>. From tutorials to
     industry trends, it's a space where knowledge meets creativity.</p>
 
   <h2>📫 Let's Connect!</h2>
 
   <ul>
+      <div>
+<a href="#" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github" alt="My Skills">
+</a>       </div>
+      <div>
+<a href="#" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" alt="My Skills">
+</a>       </div>
     <li>LinkedIn: <a href="#">Adarsh Pratap Singh</a></li>
     <li>Twitter: <a href="#">@YourTwitterHandle</a></li>
     <li>Personal Website: <a href="#">YourWebsite.com</a></li>
