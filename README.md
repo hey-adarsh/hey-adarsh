@@ -1,35 +1,4 @@
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Adarsh Pratap Singh: GitHub Profile </title>
-  <style>
-    body {
-      font-family: 'Arial', sans-serif;
-      line-height: 1.6;
-      margin: 20 px;
-    }
-    h1 {
-      color: #0366d6;
-    }
-    h2 {
-      color: #24292e;
-    h3 {
-      color: #6a737d;
-    }
-    p {
-      color: #586069;
-    }
-    a {
-      color: #0366d6;
-      text-decoration: none;
-    }
-    a:hover {
-      text-decoration: underline;
-    }
-    ul {
-      list-style-type: none;
-    }
-  </style>
+
 </head>
 <body>
 
