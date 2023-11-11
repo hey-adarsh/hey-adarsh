@@ -81,7 +81,10 @@ creating innovative and efficient web solutions. My journey in the realm of web 
         </a>   
          <a href="https://www.linkedin.com/in/adarsh-pratap-singh-aps" target="_blank">
           <img src="https://skillicons.dev/icons?i=linkedin" alt="My Skills">
-        </a> 
+        </a>
+        <a href="https://heyadarsh.lovestoblog.com" target="_blank">
+          <img src="https://heyadarsh.lovestoblog.com/wp-content/uploads/2023/10/S-2-1.png" alt="My Skills">
+        </a>
       </div>
     </ul>
 
