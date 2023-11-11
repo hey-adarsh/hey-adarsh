@@ -12,28 +12,32 @@ creating innovative and efficient web solutions. My journey in the realm of web 
 
   <ul>
       <li><strong>Languages:</strong>
-      <div>
-<a href="#" target="_blank">
-  <img src="https://skillicons.dev/icons?i=html,js,css,cpp," alt="My Skills">
-</a>       </div>
+        <div>
+          <a href="#" target="_blank">
+            <img src="https://skillicons.dev/icons?i=js,html,css,cpp" alt="My Skills">
+          </a>      
+      </div>
     </li>
     <li><strong>Frontend Development:</strong>
       <div>
-<a href="#" target="_blank">
-  <img src="https://skillicons.dev/icons?i=angular,bootstrap,tailwind,jquery,react,vue" alt="My Skills">
-</a>       </div>
+        <a href="#" target="_blank">
+          <img src="https://skillicons.dev/icons?i=angular,bootstrap,tailwind,jquery,react,vue" alt="My Skills">
+        </a>      
+      </div>
     </li>
     <li><strong>Backend Development:</strong>
         <div>
-<a href="#" target="_blank">
-  <img src="https://skillicons.dev/icons?i=nodejs,django,rails" alt="My Skills">
-</a>       </div>
+          <a href="#" target="_blank">
+            <img src="https://skillicons.dev/icons?i=nodejs,django,rails" alt="My Skills">
+          </a>   
+        </div>
     </li>
     <li><strong>Databases:</strong>
        <div>
-<a href="#" target="_blank">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" alt="My Skills">
-</a>     </div>
+          <a href="#" target="_blank">
+            <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" alt="My Skills">
+          </a> 
+       </div>
     </li>
     <li><strong>WordPress:</strong>
         <ul>
@@ -72,21 +76,18 @@ creating innovative and efficient web solutions. My journey in the realm of web 
 
   <ul>
       <div>
-<a href="#" target="_blank">
-  <img src="https://skillicons.dev/icons?i=github" alt="My Skills">
-</a>       </div>
-      <div>
-<a href="#" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" alt="My Skills">
-</a>       </div>
-    <li>LinkedIn: <a href="#">Adarsh Pratap Singh</a></li>
-    <li>Twitter: <a href="#">@YourTwitterHandle</a></li>
-    <li>Personal Website: <a href="#">YourWebsite.com</a></li>
-  </ul>
+        <a href="https://github.com/hey-adarsh" target="_blank">
+          <img src="https://skillicons.dev/icons?i=github" alt="My Skills">
+        </a>   
+         <a href="https://www.linkedin.com/in/adarsh-pratap-singh-aps" target="_blank">
+          <img src="https://skillicons.dev/icons?i=linkedin" alt="My Skills">
+        </a> 
+      </div>
+    </ul>
 
   <p>Feel free to reach out if you have any questions, collaboration ideas, or just want to chat about web development and
     technology. Happy coding! 🚀</p>
 
 </body>
 
-</html>
+
