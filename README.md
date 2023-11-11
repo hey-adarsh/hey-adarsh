@@ -1,7 +1,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Adarsh Pratap Singh: GitHub Profile</title>
+  <title>Adarsh Pratap Singh: GitHub Profile </title>
   <style>
     body {
       font-family: 'Arial', sans-serif;
@@ -31,7 +31,6 @@
     }
   </style>
 </head>
-
 <body>
 
   <h1>👋 Hello, I'm Adarsh Pratap Singh!</h1>
