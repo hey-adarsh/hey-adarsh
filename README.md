@@ -12,35 +12,32 @@ creating innovative and efficient web solutions. My journey in the realm of web 
 
   <ul>
     <li><strong>Frontend Development:</strong>
-      <ul>
-       <p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <li>React</li>
-        <li>Angular</li>
-        <li>Vue.js</li>
-      </ul>
+      <div>
+<a href="https://skillicons.dev" target="_blank">
+  <img src="https://skillicons.dev/icons?i=angular,react,vue" alt="My Skills">
+</a>       </div>
     </li>
     <li><strong>Backend Development:</strong>
-      <ul>
-        <li>Node.js</li>
-        <li>Python with Django and Flask</li>
-        <li>Ruby on Rails</li>
-      </ul>
+        <div>
+<a href="https://skillicons.dev" target="_blank">
+  <img src="https://skillicons.dev/icons?i=nodejs,django,rails" alt="My Skills">
+</a>       </div>
     </li>
     <li><strong>Databases:</strong>
-      <ul>
-        <li>MySQL</li>
-        <li>PostgreSQL</li>
-        <li>MongoDB</li>
-      </ul>
+       <div>
+<a href="https://skillicons.dev" target="_blank">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" alt="My Skills">
+</a>     </div>
     </li>
     <li><strong>WordPress:</strong>
-      <ul>
+        <ul>
         <li>Custom theme development</li>
         <li>Performance optimization</li>
         <li>Content management systems</li>
       </ul>
     </li>
     <li><strong>Other Skills:</strong>
-      <ul>
+         <ul>
         <li>Content creation and layout design</li>
         <li>SEO (Search Engine Optimization)</li>
         <li>Strong problem-solving skills</li>
