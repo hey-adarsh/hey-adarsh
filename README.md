@@ -13,7 +13,7 @@ creating innovative and efficient web solutions. My journey in the realm of web 
   <ul>
     <li><strong>Frontend Development:</strong>
       <ul>
-        <li>React</li>
+       <p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <li>React</li>
         <li>Angular</li>
         <li>Vue.js</li>
       </ul>
