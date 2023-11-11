@@ -69,7 +69,7 @@ creating innovative and efficient web solutions. My journey in the realm of web 
 
   <h2>📚 Blog</h2>
 
-  <p>I share my insights and experiences in the world of web development on my <a href="heyadarsh.lovestoblog.com/adarsh-pratap-singh/">blog</a>. From tutorials to
+  <p>I share my insights and experiences in the world of web development on my <a href="https://heyadarsh.lovestoblog.com/adarsh-pratap-singh/">blog</a>. From tutorials to
     industry trends, it's a space where knowledge meets creativity.</p>
 
   <h2>📫 Let's Connect!</h2>
