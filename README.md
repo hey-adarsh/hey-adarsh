@@ -60,12 +60,10 @@ creating innovative and efficient web solutions. My journey in the realm of web 
   <p>Explore some of my noteworthy projects, each showcasing a blend of creativity and functionality:</p>
 
   <ul>
-    <li><a href="#">Project 1</a> - Brief description.</li>
-    <li><a href="#">Project 2</a> - Brief description.</li>
-    <li><a href="#">Project 3</a> - Brief description.</li>
+    <li><a href="https://heyadarsh.lovestoblog.com/">View My Projects</a> - Brief description.</li>
+   
   </ul>
 
-  <p>Feel free to check out the repositories for a deeper dive into the code!</p>
 
   <h2>📚 Blog</h2>
 
