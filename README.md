@@ -83,7 +83,7 @@ creating innovative and efficient web solutions. My journey in the realm of web 
           <img src="https://skillicons.dev/icons?i=linkedin" alt="My Skills">
         </a>
         <a href="https://heyadarsh.lovestoblog.com" target="_blank">
-          <img src="site logo.png" alt="site Logo" width="50" height="50" style="border-radius:12 px;">
+          <img src="logoo.png" alt="site Logo" width="50" height="50" style="border-radius:12 px;">
          </a>
       </div>
     </ul>
