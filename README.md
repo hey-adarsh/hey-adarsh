@@ -1,4 +1,3 @@
-![](heyadarsh.gif)
 </head>
 <body>
 
