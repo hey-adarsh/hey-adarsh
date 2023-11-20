@@ -1,4 +1,4 @@
-<img src="heyadarsh.gif" >
+<img src="heyadarsh.gif" alt="heyadarsh.gif" style="width:100 %; height:auto;">
 </head>
 <body>
 
